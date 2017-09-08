@@ -1,0 +1,47 @@
+button{
+    
+
+    margin-top: 350px;
+    margin-left: 55px;
+ height:100px;
+    width:100px;
+    border-radius: 10px;
+    border-color: black;
+    
+    font-size: 30px;
+}
+
+
+html {
+  font-size: 10px;
+  background-color: black;
+  background-size: cover;
+}
+
+body,html {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+   height:650px;
+    width:100%;
+}
+
+div{
+display:block;
+}
+
+.img{
+    margin-top:30px;
+}
+
+.music{
+     margin-top:10px;
+}
+
+.sad{
+    margin-top: 70px;
+    
+}
+.duet{
+margin-top: 100px;
+}
